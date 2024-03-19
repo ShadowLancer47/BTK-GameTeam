@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Ders 2/Prototype 2.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
